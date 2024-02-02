@@ -1,6 +1,6 @@
 # Using-Steganography-For-Hiding-TCP-Handshake
 
-Introduction
+Introduction.
 This repository contains the implementation of an innovative approach to network security: using steganography to hide the TCP handshake process. This project aims to enhance security in network communications by concealing the initial stages of a TCP connection.
 
 About the Project
